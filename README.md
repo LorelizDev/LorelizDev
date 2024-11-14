@@ -63,19 +63,35 @@
 
 ###
 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=lorelizdev&label=Profile%20views&color=B28FBA&style=flat" alt="lorelizdev" /> </p>
+
 ## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> About Me
 
 🌟 I’m a curious, results-driven professional with a diverse background that spans chemistry, entrepreneurship, and technology. My analytical skills and resource management abilities are rooted in my training as a chemist👩‍🔬, while my adaptability and empathy were honed through international work experiences🌍. Now, as a **full stack web developer**, I’m skilled in HTML, CSS, JavaScript, React, Node.js, TypeScript, and Python, among other tools. My ability to learn quickly and solve problems creatively allows me to thrive in tech environments, where I apply my technical and interpersonal skills to make a meaningful impact on every project I tackle🚀.
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=lorelizdev&label=Profile%20views&color=B28FBA&style=flat" alt="lorelizdev" /> </p>
+.
+
+## 🗂️Some Repositories
+.
+
+<div align="center">
+  <a href="https://github.com/LorelizDev/backend_memeOS_mongoDB_ts"><img width="380px" height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=lorelizdev&theme=tokyonight&repo=backend_memeOS_mongoDB_ts" alt="MemeOS API" /></a>
+  <a href="https://github.com/LorelizDev/simpsons-memeseum-project"><img width="380px" height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=lorelizdev&theme=tokyonight&repo=simpsons-memeseum-project" alt="Simpson's Memeseum" /></a>
+  <a href="https://github.com/LorelizDev/c15-45-ft-python-react"><img width="380px" height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=lorelizdev&theme=tokyonight&repo=c15-45-ft-python-react" alt="c15-45-ft-python-react" /></a>
+  <a href="https://github.com/LorelizDev/s13-19-m-python"><img width="380px" height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=lorelizdev&theme=tokyonight&repo=s13-19-m-python" alt="s13-19-m-python" /></a>
+  <a href="https://github.com/LorelizDev/hackaton-F5-G1-2024"><img width="380px" height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=lorelizdev&theme=tokyonight&repo=hackaton-F5-G1-2024" alt="hackaton-F5-G1-2024" /></a>
+  <a href="https://github.com/LorelizDev/SoulKeysAcademy"><img width="380px" height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=lorelizdev&theme=tokyonight&repo=SoulKeysAcademy" alt="SoulKeysAcademy" /></a>
+  <p><a href="https://github.com/LorelizDev?tab=repositories">🔎View more...</a></p>
+</div>
+
+## 📊Stats
+.
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy" target="blank"><img src="https://github-profile-trophy.vercel.app/?username=lorelizdev&theme=nord&rank=-?&column=-1" alt="lorelizdev" /></a> </p>
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=lorelizdev&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide=jupyter%20notebook" alt="lorelizdev" height="180" />&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=lorelizdev&show_icons=true&locale=en&theme=tokyonight&hide=issues" alt="lorelizdev" height="180" /></div>
 
 <p align="center"><img src="https://github-contributor-stats.vercel.app/api?username=lorelizdev&theme=tokyonight" /></p>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&theme=tokyonight&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
   <picture>

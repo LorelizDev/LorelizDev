@@ -75,6 +75,8 @@
 .
 
 <div align="center">
+  <a href="https://github.com/LorelizDev/AssecoSync_client"><img width="380px" height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=lorelizdev&theme=tokyonight&repo=AssecoSync_client" alt="AssecoSync_client" /></a>
+  <a href="https://github.com/LorelizDev/AssecoSync_API"><img width="380px" height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=lorelizdev&theme=tokyonight&repo=AssecoSync_API" alt="AssecoSync_API" /></a>
   <a href="https://github.com/LorelizDev/cookinando"><img width="380px" height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=lorelizdev&theme=tokyonight&repo=cookinando" alt="Cookinando" /></a>
   <a href="https://github.com/LorelizDev/backend_memeOS_mongoDB_ts"><img width="380px" height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=lorelizdev&theme=tokyonight&repo=backend_memeOS_mongoDB_ts" alt="MemeOS API" /></a>
   <a href="https://github.com/LorelizDev/simpsons-memeseum-project"><img width="380px" height="140px" src="https://github-readme-stats.vercel.app/api/pin/?username=lorelizdev&theme=tokyonight&repo=simpsons-memeseum-project" alt="Simpson's Memeseum" /></a>
